@@ -1,0 +1,11 @@
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_poo\bin\Debug\netcoreapp2.2\Triangulo_poo.deps.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_poo\bin\Debug\netcoreapp2.2\Triangulo_poo.runtimeconfig.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_poo\bin\Debug\netcoreapp2.2\Triangulo_poo.runtimeconfig.dev.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_poo\bin\Debug\netcoreapp2.2\Triangulo_poo.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_poo\bin\Debug\netcoreapp2.2\Triangulo_poo.pdb
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_poo\obj\Debug\netcoreapp2.2\Triangulo_poo.csprojAssemblyReference.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_poo\obj\Debug\netcoreapp2.2\Triangulo_poo.csproj.CoreCompileInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_poo\obj\Debug\netcoreapp2.2\Triangulo_poo.AssemblyInfoInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_poo\obj\Debug\netcoreapp2.2\Triangulo_poo.AssemblyInfo.cs
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_poo\obj\Debug\netcoreapp2.2\Triangulo_poo.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_poo\obj\Debug\netcoreapp2.2\Triangulo_poo.pdb
