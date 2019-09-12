@@ -1,0 +1,11 @@
+C:\Users\priscila\Documents\Projetos_aula_udemy\Mais_Velho\bin\Debug\netcoreapp2.2\Mais_Velho.deps.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Mais_Velho\bin\Debug\netcoreapp2.2\Mais_Velho.runtimeconfig.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Mais_Velho\bin\Debug\netcoreapp2.2\Mais_Velho.runtimeconfig.dev.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Mais_Velho\bin\Debug\netcoreapp2.2\Mais_Velho.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\Mais_Velho\bin\Debug\netcoreapp2.2\Mais_Velho.pdb
+C:\Users\priscila\Documents\Projetos_aula_udemy\Mais_Velho\obj\Debug\netcoreapp2.2\Mais_Velho.csprojAssemblyReference.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Mais_Velho\obj\Debug\netcoreapp2.2\Mais_Velho.csproj.CoreCompileInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Mais_Velho\obj\Debug\netcoreapp2.2\Mais_Velho.AssemblyInfoInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Mais_Velho\obj\Debug\netcoreapp2.2\Mais_Velho.AssemblyInfo.cs
+C:\Users\priscila\Documents\Projetos_aula_udemy\Mais_Velho\obj\Debug\netcoreapp2.2\Mais_Velho.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\Mais_Velho\obj\Debug\netcoreapp2.2\Mais_Velho.pdb
