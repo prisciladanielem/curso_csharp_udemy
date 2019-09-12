@@ -6,8 +6,8 @@ namespace Aula1
 {
     class Program
     {
-        static void Main(string[] args)
-        {
+        //static void Main(string[] args)
+        //{
             Console.WriteLine("Digite 3 numeros: ");
             var n1 = int.Parse(Console.ReadLine());
             var n2 = int.Parse(Console.ReadLine());
@@ -32,4 +32,4 @@ namespace Aula1
             }
         }
     }
-}
+
