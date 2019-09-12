@@ -1,0 +1,11 @@
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_sem_poo\bin\Debug\netcoreapp2.2\Triangulo_sem_poo.deps.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_sem_poo\bin\Debug\netcoreapp2.2\Triangulo_sem_poo.runtimeconfig.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_sem_poo\bin\Debug\netcoreapp2.2\Triangulo_sem_poo.runtimeconfig.dev.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_sem_poo\bin\Debug\netcoreapp2.2\Triangulo_sem_poo.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_sem_poo\bin\Debug\netcoreapp2.2\Triangulo_sem_poo.pdb
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_sem_poo\obj\Debug\netcoreapp2.2\Triangulo_sem_poo.csprojAssemblyReference.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_sem_poo\obj\Debug\netcoreapp2.2\Triangulo_sem_poo.csproj.CoreCompileInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_sem_poo\obj\Debug\netcoreapp2.2\Triangulo_sem_poo.AssemblyInfoInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_sem_poo\obj\Debug\netcoreapp2.2\Triangulo_sem_poo.AssemblyInfo.cs
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_sem_poo\obj\Debug\netcoreapp2.2\Triangulo_sem_poo.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\Triangulo_sem_poo\obj\Debug\netcoreapp2.2\Triangulo_sem_poo.pdb
