@@ -1,0 +1,11 @@
+C:\Users\priscila\Documents\Projetos_aula_udemy\Media_Salario\bin\Debug\netcoreapp2.2\Media_Salario.deps.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Media_Salario\bin\Debug\netcoreapp2.2\Media_Salario.runtimeconfig.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Media_Salario\bin\Debug\netcoreapp2.2\Media_Salario.runtimeconfig.dev.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Media_Salario\bin\Debug\netcoreapp2.2\Media_Salario.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\Media_Salario\bin\Debug\netcoreapp2.2\Media_Salario.pdb
+C:\Users\priscila\Documents\Projetos_aula_udemy\Media_Salario\obj\Debug\netcoreapp2.2\Media_Salario.csprojAssemblyReference.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Media_Salario\obj\Debug\netcoreapp2.2\Media_Salario.csproj.CoreCompileInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Media_Salario\obj\Debug\netcoreapp2.2\Media_Salario.AssemblyInfoInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Media_Salario\obj\Debug\netcoreapp2.2\Media_Salario.AssemblyInfo.cs
+C:\Users\priscila\Documents\Projetos_aula_udemy\Media_Salario\obj\Debug\netcoreapp2.2\Media_Salario.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\Media_Salario\obj\Debug\netcoreapp2.2\Media_Salario.pdb
