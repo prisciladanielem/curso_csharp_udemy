@@ -1,0 +1,11 @@
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalcularNotas\bin\Debug\netcoreapp2.2\CalcularNotas.deps.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalcularNotas\bin\Debug\netcoreapp2.2\CalcularNotas.runtimeconfig.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalcularNotas\bin\Debug\netcoreapp2.2\CalcularNotas.runtimeconfig.dev.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalcularNotas\bin\Debug\netcoreapp2.2\CalcularNotas.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalcularNotas\bin\Debug\netcoreapp2.2\CalcularNotas.pdb
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalcularNotas\obj\Debug\netcoreapp2.2\CalcularNotas.csprojAssemblyReference.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalcularNotas\obj\Debug\netcoreapp2.2\CalcularNotas.csproj.CoreCompileInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalcularNotas\obj\Debug\netcoreapp2.2\CalcularNotas.AssemblyInfoInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalcularNotas\obj\Debug\netcoreapp2.2\CalcularNotas.AssemblyInfo.cs
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalcularNotas\obj\Debug\netcoreapp2.2\CalcularNotas.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalcularNotas\obj\Debug\netcoreapp2.2\CalcularNotas.pdb
