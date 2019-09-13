@@ -1,0 +1,11 @@
+C:\Users\priscila\Documents\Projetos_aula_udemy\CotacaoDolar\bin\Debug\netcoreapp2.2\CotacaoDolar.deps.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\CotacaoDolar\bin\Debug\netcoreapp2.2\CotacaoDolar.runtimeconfig.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\CotacaoDolar\bin\Debug\netcoreapp2.2\CotacaoDolar.runtimeconfig.dev.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\CotacaoDolar\bin\Debug\netcoreapp2.2\CotacaoDolar.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\CotacaoDolar\bin\Debug\netcoreapp2.2\CotacaoDolar.pdb
+C:\Users\priscila\Documents\Projetos_aula_udemy\CotacaoDolar\obj\Debug\netcoreapp2.2\CotacaoDolar.csprojAssemblyReference.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\CotacaoDolar\obj\Debug\netcoreapp2.2\CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\CotacaoDolar\obj\Debug\netcoreapp2.2\CotacaoDolar.AssemblyInfoInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\CotacaoDolar\obj\Debug\netcoreapp2.2\CotacaoDolar.AssemblyInfo.cs
+C:\Users\priscila\Documents\Projetos_aula_udemy\CotacaoDolar\obj\Debug\netcoreapp2.2\CotacaoDolar.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\CotacaoDolar\obj\Debug\netcoreapp2.2\CotacaoDolar.pdb
