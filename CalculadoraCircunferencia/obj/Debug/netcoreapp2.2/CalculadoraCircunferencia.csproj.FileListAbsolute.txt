@@ -1,0 +1,10 @@
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalculadoraCircunferencia\bin\Debug\netcoreapp2.2\CalculadoraCircunferencia.deps.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalculadoraCircunferencia\bin\Debug\netcoreapp2.2\CalculadoraCircunferencia.runtimeconfig.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalculadoraCircunferencia\bin\Debug\netcoreapp2.2\CalculadoraCircunferencia.runtimeconfig.dev.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalculadoraCircunferencia\bin\Debug\netcoreapp2.2\CalculadoraCircunferencia.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalculadoraCircunferencia\bin\Debug\netcoreapp2.2\CalculadoraCircunferencia.pdb
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalculadoraCircunferencia\obj\Debug\netcoreapp2.2\CalculadoraCircunferencia.csproj.CoreCompileInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalculadoraCircunferencia\obj\Debug\netcoreapp2.2\CalculadoraCircunferencia.AssemblyInfoInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalculadoraCircunferencia\obj\Debug\netcoreapp2.2\CalculadoraCircunferencia.AssemblyInfo.cs
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalculadoraCircunferencia\obj\Debug\netcoreapp2.2\CalculadoraCircunferencia.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\CalculadoraCircunferencia\obj\Debug\netcoreapp2.2\CalculadoraCircunferencia.pdb
