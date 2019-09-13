@@ -1,0 +1,11 @@
+C:\Users\priscila\Documents\Projetos_aula_udemy\Produtos_estoque\obj\Debug\netcoreapp2.2\Produtos_estoque.csprojAssemblyReference.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Produtos_estoque\obj\Debug\netcoreapp2.2\Produtos_estoque.csproj.CoreCompileInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Produtos_estoque\obj\Debug\netcoreapp2.2\Produtos_estoque.AssemblyInfoInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Produtos_estoque\obj\Debug\netcoreapp2.2\Produtos_estoque.AssemblyInfo.cs
+C:\Users\priscila\Documents\Projetos_aula_udemy\Produtos_estoque\bin\Debug\netcoreapp2.2\Produtos_estoque.deps.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Produtos_estoque\bin\Debug\netcoreapp2.2\Produtos_estoque.runtimeconfig.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Produtos_estoque\bin\Debug\netcoreapp2.2\Produtos_estoque.runtimeconfig.dev.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Produtos_estoque\bin\Debug\netcoreapp2.2\Produtos_estoque.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\Produtos_estoque\bin\Debug\netcoreapp2.2\Produtos_estoque.pdb
+C:\Users\priscila\Documents\Projetos_aula_udemy\Produtos_estoque\obj\Debug\netcoreapp2.2\Produtos_estoque.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\Produtos_estoque\obj\Debug\netcoreapp2.2\Produtos_estoque.pdb
