@@ -1,0 +1,11 @@
+C:\Users\priscila\Documents\Projetos_aula_udemy\Quartos\bin\Debug\netcoreapp2.2\Quartos.deps.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Quartos\bin\Debug\netcoreapp2.2\Quartos.runtimeconfig.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Quartos\bin\Debug\netcoreapp2.2\Quartos.runtimeconfig.dev.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Quartos\bin\Debug\netcoreapp2.2\Quartos.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\Quartos\bin\Debug\netcoreapp2.2\Quartos.pdb
+C:\Users\priscila\Documents\Projetos_aula_udemy\Quartos\obj\Debug\netcoreapp2.2\Quartos.csproj.CoreCompileInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Quartos\obj\Debug\netcoreapp2.2\Quartos.AssemblyInfoInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Quartos\obj\Debug\netcoreapp2.2\Quartos.AssemblyInfo.cs
+C:\Users\priscila\Documents\Projetos_aula_udemy\Quartos\obj\Debug\netcoreapp2.2\Quartos.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\Quartos\obj\Debug\netcoreapp2.2\Quartos.pdb
+C:\Users\priscila\Documents\Projetos_aula_udemy\Quartos\obj\Debug\netcoreapp2.2\Quartos.csprojAssemblyReference.cache
