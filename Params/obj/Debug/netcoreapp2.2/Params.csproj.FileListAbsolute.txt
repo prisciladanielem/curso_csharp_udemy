@@ -1,0 +1,11 @@
+C:\Users\priscila\Documents\Projetos_aula_udemy\Params\obj\Debug\netcoreapp2.2\Params.csprojAssemblyReference.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Params\obj\Debug\netcoreapp2.2\Params.csproj.CoreCompileInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Params\obj\Debug\netcoreapp2.2\Params.AssemblyInfoInputs.cache
+C:\Users\priscila\Documents\Projetos_aula_udemy\Params\obj\Debug\netcoreapp2.2\Params.AssemblyInfo.cs
+C:\Users\priscila\Documents\Projetos_aula_udemy\Params\bin\Debug\netcoreapp2.2\Params.deps.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Params\bin\Debug\netcoreapp2.2\Params.runtimeconfig.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Params\bin\Debug\netcoreapp2.2\Params.runtimeconfig.dev.json
+C:\Users\priscila\Documents\Projetos_aula_udemy\Params\bin\Debug\netcoreapp2.2\Params.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\Params\bin\Debug\netcoreapp2.2\Params.pdb
+C:\Users\priscila\Documents\Projetos_aula_udemy\Params\obj\Debug\netcoreapp2.2\Params.dll
+C:\Users\priscila\Documents\Projetos_aula_udemy\Params\obj\Debug\netcoreapp2.2\Params.pdb
